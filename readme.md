@@ -6,11 +6,11 @@ We can perform operations such as create, read,update(modify),delete operations 
 
 It also throws several errors such as:
 
-**1. Memory limit exceeded
+**1. Memory limit exceeded**
 
-**2. Expiration of time-to-live
+**2. Expiration of time-to-live**
 
-**3. Key doesnt exist
+**3. Key doesnt exist**
 
 It also checks whether the key name follows naming conventions or not.
 
