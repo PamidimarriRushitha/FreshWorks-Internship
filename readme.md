@@ -12,3 +12,5 @@ It also checks whether the key name follows naming conventions or not.
 
 It also uses the concept of threads.
 
+In order to get output run code.py file as shown in output jpeg file
+
